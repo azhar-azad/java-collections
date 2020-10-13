@@ -1,0 +1,33 @@
+1. ArrayList: 
+	i. ArrayList class implements List interface and it is based on an Array data structure.
+	ii. ArrayList is a resizable-array implementation of the List interface. 
+	iii. It implements all optional list operations, and permits all elements, including null.
+
+2. ArrayList vs Array:
+	i. The limitation with array is that it has a fixed length 
+	- so if it is full you cannot add any more elements to it, 
+	- likewise if there are number of elements gets removed from it, 
+	- the memory consumption would be the same as it doesn’t shrink.
+	ii. On the other hand ArrayList can dynamically grow and shrink after addition and removal of elements.
+	iii. Apart from these benefits, ArrayList class enables us to use predefined methods of it which makes our task easy.
+	
+3. Create an ArrayList:
+	i. ArrayList<String> strList = new ArrayList<>();
+	ii. ArrayList<Integer> integerList = new ArrayList<>(); 
+	
+4. Add elements to ArrayList: 
+	i. strList.add("a string");
+	ii. integerList.add(19);
+	iii. strList.add(3, "string in fourth position"); [ not replace. right side items will be shifted ]
+	
+5. Change an element in ArrayList: 
+	i. strList.set(0, "will replace the first item");
+	
+6. Remove elements from ArrayList: 
+	i. strList.remove("a string");
+	ii. strList.remove(2); [ will remove the 3rd element ]
+	
+7. Get ArrayList length: 
+	i. strList.size();
+	
+	
