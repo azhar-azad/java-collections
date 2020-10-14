@@ -9,8 +9,8 @@
 	* Apart from these benefits, ArrayList class enables us to use predefined methods of it which makes our task easy.
 	
 3. Create an ArrayList:
-	* ArrayList<String> strList = new ArrayList<>();
-	* ArrayList<Integer> integerList = new ArrayList<>(); 
+	* ArrayList<String<x>> strList = new ArrayList<>();
+	* ArrayList<Integer<x>> integerList = new ArrayList<>(); 
 	
 4. Add elements to ArrayList: 
 	* strList.add("a string");
@@ -27,7 +27,7 @@
 7. Get ArrayList length: 
 	* strList.size();
 	
-### Methods: 
+### Methods:  
 
 	* add(Object o): This method adds an object o to the ArrayList.  
 	    listObj.add("hello");
