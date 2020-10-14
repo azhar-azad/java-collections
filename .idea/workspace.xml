@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1649718-d7c1-4054-af10-d9718be6f8a3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListBasics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListBasics.java" afterDir="false" />
-    </list>
+    <list default="true" id="a1649718-d7c1-4054-af10-d9718be6f8a3" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,8 +27,8 @@
       <file leaf-file-name="ArrayListBasics.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListBasics.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="54" column="4" lean-forward="true" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
+            <state relative-caret-position="267">
+              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
             </state>
           </provider>
         </entry>
@@ -203,16 +201,15 @@
       <option name="presentableId" value="Default" />
       <updated>1602611221682</updated>
       <workItem from="1602611223636" duration="57000" />
-      <workItem from="1602657595180" duration="4946000" />
+      <workItem from="1602657595180" duration="5577000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5003000" />
+    <option name="totallyTimeSpent" value="5634000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="25" width="1309" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -224,8 +221,8 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.328594" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.328594" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.328594" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.328594" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.24980901" />
@@ -304,8 +301,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListBasics.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="54" column="4" lean-forward="true" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
+        <state relative-caret-position="267">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
         </state>
       </provider>
     </entry>
