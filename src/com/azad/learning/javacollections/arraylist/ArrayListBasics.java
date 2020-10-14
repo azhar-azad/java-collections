@@ -1,4 +1,4 @@
-package com.azad.learning.javacollections.arraylist.basics;
+package com.azad.learning.javacollections.arraylist;
 
 import java.util.ArrayList;
 
