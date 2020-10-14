@@ -11,7 +11,7 @@ public class ArrayListBasics {
 		basics();
 		init();
 	}
-
+	
 	public static void basics() {
 		
 		System.out.println("\n\nbasics\n======\n");
