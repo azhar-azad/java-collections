@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1649718-d7c1-4054-af10-d9718be6f8a3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListBasics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListBasics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListSorting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListSorting.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListSorting.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -38,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayListSorting.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ArrayListSorting.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListSorting.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="219" column="45" selection-start-line="219" selection-start-column="45" selection-end-line="219" selection-end-column="45" />
+            <state relative-caret-position="629">
+              <caret line="107" column="6" lean-forward="true" selection-start-line="107" selection-start-column="6" selection-end-line="107" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1340#1341#0" expanded="true" />
@@ -53,18 +50,17 @@
                 <element signature="e#1459#1460#0" expanded="true" />
                 <element signature="e#1491#1492#0" expanded="true" />
                 <element signature="e#1512#1513#0" expanded="true" />
-                <element signature="method#sortAsc#0;class#ArrayListSorting#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayListSorting.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ArrayListSorting.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListSorting.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="252">
-                <caret line="14" column="78" selection-start-line="14" selection-start-column="78" selection-end-line="14" selection-end-column="78" />
+              <first_editor relative-caret-position="324">
+                <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
               </first_editor>
               <second_editor />
             </state>
@@ -91,8 +87,8 @@
         <option value="$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListBasics.md" />
         <option value="$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListInit.java" />
         <option value="$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListBasics.java" />
-        <option value="$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListSorting.md" />
         <option value="$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListSorting.java" />
+        <option value="$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListSorting.md" />
       </list>
     </option>
   </component>
@@ -231,12 +227,12 @@
       <updated>1602611221682</updated>
       <workItem from="1602611223636" duration="57000" />
       <workItem from="1602657595180" duration="5577000" />
-      <workItem from="1602690031957" duration="2653000" />
+      <workItem from="1602690031957" duration="2996000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8287000" />
+    <option name="totallyTimeSpent" value="8630000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="25" width="1309" height="743" extended-state="6" />
@@ -252,11 +248,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.328594" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.328594" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.328594" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.7109005" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980901" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24980901" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -368,16 +364,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListSorting.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="252">
-            <caret line="14" column="78" selection-start-line="14" selection-start-column="78" selection-end-line="14" selection-end-column="78" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/lang/String.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-92">
@@ -387,8 +373,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListSorting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="219" column="45" selection-start-line="219" selection-start-column="45" selection-end-line="219" selection-end-column="45" />
+        <state relative-caret-position="629">
+          <caret line="107" column="6" lean-forward="true" selection-start-line="107" selection-start-column="6" selection-end-line="107" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1340#1341#0" expanded="true" />
@@ -399,8 +385,17 @@
             <element signature="e#1459#1460#0" expanded="true" />
             <element signature="e#1491#1492#0" expanded="true" />
             <element signature="e#1512#1513#0" expanded="true" />
-            <element signature="method#sortAsc#0;class#ArrayListSorting#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListSorting.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="324">
+            <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
