@@ -25,4 +25,12 @@ public class ArrayListInit {
         ArrayList<Integer> intList = new ArrayList<>(Collections.nCopies(10, 1));
         System.out.println("intList: " + intList);
     }
+
+    /*
+    OUTPUT:
+
+    strList1: [Tipu, Shawon, Akib, Ripon]
+    strList2: [Tipu, Shawon, Akib]
+    intList: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+     */
 }
