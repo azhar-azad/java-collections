@@ -44,4 +44,25 @@ public class ArrayListBasics {
 		System.out.println();
 	}
 
+	/*
+	OUTPUT:
+
+	After adding:
+	Shawon
+	Akib
+	Tipu
+	Ripon
+
+	After adding at given index:
+	Azad
+	Shawon
+	Akib
+	Tipu
+	Ripon
+
+	After removing:
+	Akib
+	Tipu
+	Ripon
+	 */
 }

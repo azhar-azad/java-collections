@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1649718-d7c1-4054-af10-d9718be6f8a3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListInit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListBasics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListBasics.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,6 +26,15 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="ArrayListBasics.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListBasics.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="54" column="4" lean-forward="true" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="ArrayListInit.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListInit.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -38,10 +47,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayListInit.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ArrayListInit.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListInit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
+            <state relative-caret-position="183">
               <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -69,6 +78,7 @@
         <option value="$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListInit.md" />
         <option value="$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListBasics.md" />
         <option value="$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListInit.java" />
+        <option value="$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListBasics.java" />
       </list>
     </option>
   </component>
@@ -142,7 +152,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayListInit">
+  <component name="RunManager" selected="Application.ArrayListBasics">
+    <configuration name="ArrayListBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.azad.learning.javacollections.arraylist.ArrayListBasics" />
+      <module name="java-collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.azad.learning.javacollections.arraylist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="ArrayListInit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.azad.learning.javacollections.arraylist.ArrayListInit" />
       <module name="java-collections" />
@@ -163,9 +183,11 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.ArrayListInit" />
+      <item itemvalue="Application.ArrayListBasics" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayListBasics" />
         <item itemvalue="Application.ArrayListInit" />
       </list>
     </recent_temporary>
@@ -181,12 +203,12 @@
       <option name="presentableId" value="Default" />
       <updated>1602611221682</updated>
       <workItem from="1602611223636" duration="57000" />
-      <workItem from="1602657595180" duration="4836000" />
+      <workItem from="1602657595180" duration="4946000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4893000" />
+    <option name="totallyTimeSpent" value="5003000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="25" width="1309" height="743" extended-state="6" />
@@ -243,13 +265,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListBasics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayList.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -267,6 +282,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListBasics.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -277,13 +302,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListInit.java">
+    <entry file="file://$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListBasics.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="96">
+          <caret line="54" column="4" lean-forward="true" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
         </state>
       </provider>
     </entry>
