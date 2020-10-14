@@ -38,8 +38,8 @@
       <file leaf-file-name="ArrayListSorting.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListSorting.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="107" column="6" lean-forward="true" selection-start-line="107" selection-start-column="6" selection-end-line="107" selection-end-column="6" />
+            <state relative-caret-position="233">
+              <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1340#1341#0" expanded="true" />
@@ -59,8 +59,8 @@
         <entry file="file://$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListSorting.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="324">
-                <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+              <first_editor relative-caret-position="306">
+                <caret line="17" column="77" lean-forward="true" selection-start-line="17" selection-start-column="77" selection-end-line="17" selection-end-column="77" />
               </first_editor>
               <second_editor />
             </state>
@@ -227,12 +227,12 @@
       <updated>1602611221682</updated>
       <workItem from="1602611223636" duration="57000" />
       <workItem from="1602657595180" duration="5577000" />
-      <workItem from="1602690031957" duration="2996000" />
+      <workItem from="1602690031957" duration="3253000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8630000" />
+    <option name="totallyTimeSpent" value="8887000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="25" width="1309" height="743" extended-state="6" />
@@ -373,8 +373,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListSorting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="107" column="6" lean-forward="true" selection-start-line="107" selection-start-column="6" selection-end-line="107" selection-end-column="6" />
+        <state relative-caret-position="233">
+          <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1340#1341#0" expanded="true" />
@@ -392,8 +392,8 @@
     <entry file="file://$PROJECT_DIR$/src/com/azad/learning/javacollections/arraylist/ArrayListSorting.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="324">
-            <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+          <first_editor relative-caret-position="306">
+            <caret line="17" column="77" lean-forward="true" selection-start-line="17" selection-start-column="77" selection-end-line="17" selection-end-column="77" />
           </first_editor>
           <second_editor />
         </state>
