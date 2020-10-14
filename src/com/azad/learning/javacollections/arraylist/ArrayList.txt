@@ -30,4 +30,19 @@
 7. Get ArrayList length: 
 	i. strList.size();
 	
+## Methods: 
+	i. add(Object o): This method adds an object o to the ArrayList.
+		obj.add("hello");
+		
+	ii. add(int index, Object o): It adds the object o to the array list at the given index.
+		obj.add(0, "hello");
+		
+	iii. remove(Object o): Removes the object o from the ArrayList.
+		obj.remove("hello");
+		
+	iv. remove(int index): Removes element from a given index.
+		obj.remove(0);
+		
+	v. set(int index, Object o): 
+	
 	
