@@ -28,7 +28,7 @@
 7. Get ArrayList length: 
 	* strList.size();
 	
-### Methods:  
+### Methods:
 
 	* add(Object o): This method adds an object o to the ArrayList.  
 	    listObj.add("hello");
