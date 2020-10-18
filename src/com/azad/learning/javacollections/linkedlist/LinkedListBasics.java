@@ -105,7 +105,13 @@ public class LinkedListBasics {
         strList.add(2, "New Item at 3rd Position");
         System.out.println("Linked List after addition at middle: " + strList);
         strList.remove(3);
-        System.out.println("Final Content: " + strList);
+        System.out.println("Linked List after removing at certain position: " + strList);
+
+        // push and pop
+        strList.push("Pushed Item");
+        System.out.println("Linked List after pushing an item: " + strList);
+        strList.pop();
+        System.out.println("Linked List after popping an item: " + strList);
 
         /*
         OUTPUT:
@@ -117,6 +123,8 @@ public class LinkedListBasics {
         Linked List after deletion of first and last element: [Item1, Item5, Item3, Item6, Item2]
         Linked List after addition at middle: [Item1, Item5, New Item at 3rd Position, Item3, Item6, Item2]
         Final Content: [Item1, Item5, New Item at 3rd Position, Item6, Item2]
+        Linked List after pushing an item: [Pushed Item, Item1, Item5, New Item at 3rd Position, Item6, Item2]
+        Linked List after popping an item: [Item1, Item5, New Item at 3rd Position, Item6, Item2]
          */
     }
 }

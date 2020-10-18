@@ -14,8 +14,8 @@
     * Insert and delete operations in the Linked list are not performance wise expensive because adding and deleting an element from the linked list does’t require element shifting, only the pointer of the previous and the next node requires change.
     
 4. Create a LinkedList: 
-    * LinkedList<String<x>> strList = new LinkedList<>();
-    * LinkedList<Integer<x>> intList = new LinkedList<>();
+    *     LinkedList<String<x>> strList = new LinkedList<>();
+    *     LinkedList<Integer<x>> intList = new LinkedList<>();
 
 5. Add elements to LinkedList: 
     * strList.add("a string"); _(element will be added at last by default)_
@@ -27,6 +27,10 @@
     * strList.remove(1); _(2nd element will be removed)_
     * intList.removeFirst(); _(first element will be removed)_
     * strList.removeLast(); _(last element will be removed)_
+    
+7. Convert LinkedList to array: 
+    *     LinkedList<String<x>> strList = new LinkedList<>();
+    *     String[] strArr = strList.toArray(new String[strList.size()]);    
     
 ### Methods:
 
